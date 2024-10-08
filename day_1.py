@@ -1,4 +1,5 @@
 print("Hello World")
+print("Hello Gammaedge 2024")
 
 # data types in python
 # 1. integer
